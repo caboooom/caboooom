@@ -1,5 +1,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 
+<h1 align="center">Hi 👋, I'm Seyeon Lim</h1>
+<h3 align="center">I am a backend developer who enjoys sharing knowledge and learning through experience</h3>
+
+- 🔭 I’m currently working on [Smart Power Management System](https://github.com/nhnacademy-aiot1-5)
+
+- 🌱 I’m currently learning **NHN Academy AIoT Backend Developer course(Spring, Java, SpringBoot, MySQL)**
+
+- 💬 Ask me about **Spring, Java**
+
+- 📫 How to reach me **sammys27@naver.com**
 
 ### <div align=center>Languages and Tools ⚒️</div>
 <div align=center>
