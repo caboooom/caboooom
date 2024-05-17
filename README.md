@@ -1,5 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 
+
 ### <div align=center>Languages and Tools ⚒️</div>
 <div align=center>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -33,7 +34,9 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=caboooom&theme=react-dark&bg_color=00000000&hide_border=true&line=000&color=000" width=94%/>
 </a>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=caboooom&label=Profile%20views&color=0e75b6&style=flat" alt="caboooom" /> </p>
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caboooom" alt="caboooom" /></a> </p>
 <img src="https://github.com/caboooom/caboooom/blob/output/github-snake.svg" width="100%">
 
 </div>
