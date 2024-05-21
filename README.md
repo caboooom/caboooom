@@ -39,6 +39,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=caboooom&show_icons=true&theme=material-palenight&hide_border=true&bg_color=00000000&icon_color=58A6FF&text_color=000&title_color=58A6FF&count_private=true" width=56% />
 </a>
 
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sammys27)
+
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=caboooom&theme=react-dark&bg_color=00000000&hide_border=true&line=000&color=000" width=94%/>
