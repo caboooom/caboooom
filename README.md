@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 
-### <div align=center>Languages and Tools ⚒️</div>
+
+### <div align=center>⚒️ Languages and Tools</div>
 <div align=center>
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white">
@@ -14,6 +15,18 @@
     <br>
 </div>
 <br>
+
+### <div align=center>📚 Experiences</div>
+<div align=center>
+    Pusan National University (2020.03 - 2025.02) <br>
+    NHN Academy - AIoT Java Backend 1기 (2023.09 - 2024.06) 
+</div>
+<br>
+
+### <div align=center>💻 Projects</div>
+<div align=center>
+🌱 <a href="https://github.com/nhnacademy-aiot1-5">Smart Power Management System</a>
+</div>
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -41,7 +54,7 @@
 
 </div>
 
-🌱 [Smart Power Management System](https://github.com/nhnacademy-aiot1-5)
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
