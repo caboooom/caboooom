@@ -30,16 +30,16 @@
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caboooom&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=00000000&icon_color=58A6FF&text_color=000&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=33% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caboooom&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=ffffffff&icon_color=58A6FF&text_color=000&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=33% />
 </a> 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=caboooom&show_icons=true&theme=material-palenight&hide_border=true&bg_color=00000000&icon_color=58A6FF&text_color=000&title_color=58A6FF&count_private=true" width=33% />
+  <img src="https://github-readme-stats.vercel.app/api?username=caboooom&show_icons=true&theme=material-palenight&hide_border=true&bg_color=ffffffff&icon_color=58A6FF&text_color=000&title_color=58A6FF&count_private=true" width=33% />
 </a>
 
 <a>
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sammys27" width=33%></a>
-</a>
+<!-- </a> -->
 </div>
 
 
@@ -58,8 +58,6 @@
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
-
-
 <!--
 **caboooom/caboooom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
