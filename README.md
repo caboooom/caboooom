@@ -32,7 +32,7 @@
 <div>
 🌱 <a href="https://github.com/nhnacademy-aiot1-5">Smart Power Management System</a> (2024.03.25 - 2024.06.05) 
 </div>
-
+⚙️ <a href="https://github.com/GN-TA">IoT Service Platform</a> (2024.08.28 - )
 
 
 
