@@ -23,7 +23,7 @@
 ### <div>📚 Experiences</div>
 - Pusan National University (2020.03 - 2025.02) <br>
 - NHN Academy - AIoT Java Backend 1기 (2023.09 - 2024.06)
-- NHN Academy 경남캠퍼스 TA (2024.07 - )
+- NHN Academy 경남캠퍼스 TA (2024.07 - Present)
 </div>
 <br>
 
@@ -32,7 +32,7 @@
 <div>
 🌱 <a href="https://github.com/nhnacademy-aiot1-5">Smart Power Management System</a> (2024.03.25 - 2024.06.05) 
 </div>
-⚙️ <a href="https://github.com/GN-TA">IoT Service Platform</a> (2024.08.28 - )
+⚙️ <a href="https://github.com/GN-TA">IoT Service Platform</a> (2024.08.28 - Present)
 
 
 
