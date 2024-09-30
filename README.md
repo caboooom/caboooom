@@ -29,12 +29,17 @@
 
 
 ### <div>💻 Projects</div>
+<!--
 <div>
 🌱 <a href="https://github.com/nhnacademy-aiot1-5">Smart Power Management System</a> (2024.03.25 - 2024.06.05) 
 </div>
 ⚙️ <a href="https://github.com/GN-TA">IoT Service Platform</a> (2024.08.28 - Present)
+-->
 
-
+| 프로젝트명                         | 기간                      | 인원 | 설명                         |
+|------------------------------|---------------------------|------|------------------------------|
+| 🌱 [Smart Power Management System](https://github.com/nhnacademy-aiot1-5)  | 2024.03.25 - 2024.06.05      | 7    | 설정한 예산에 따른 전력 소비량 자동 관리 및 모니터링 서비스 |
+| ⚙️ [IoT Service Platform](https://github.com/GN-TA)                      | 2024.08.28 - Present         | 3    | 오픈소스 기반 IoT 통합 플랫폼    |
 
 
 
