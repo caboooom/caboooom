@@ -20,11 +20,16 @@
 </div>
 <br>
 
-### <div>📚 Experiences</div>
+### <div>⌨️ Work Experience</div>
 - [NHN Academy](https://www.nhnacademy.com/) 경남캠퍼스 TA (2024.07 - Present)
-- [NHN Academy](https://www.nhnacademy.com/) 교육 수료 - AIoT Java Backend 1기 (2023.09 - 2024.06)
+
+
+<br>
+
+### <div>📚 Education</div>
+- [NHN Academy](https://www.nhnacademy.com/) AIoT Java Backend 1기 교육 수료 (2023.09 - 2024.06)
 - Pusan National University (2020.03 - 2025.02) <br>
-</div>
+
 <br>
 
 
