@@ -1,5 +1,5 @@
 ### _*" To infinity...&nbsp; and beyond! "*_
-<img src="https://github.com/user-attachments/assets/84da505e-634a-45a7-ae33-e5920fe78b70" align=center>
+<img src="https://github.com/user-attachments/assets/84da505e-634a-45a7-ae33-e5920fe78b70" align=center style="width: 60%; display: block; margin: 0 auto;">
 </div>
 
 <br>
