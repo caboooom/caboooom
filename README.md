@@ -19,7 +19,7 @@
 <br>
 
 ### <div>⌨️ Work Experience</div>
-- [NHN Academy](https://www.nhnacademy.com/) 경남캠퍼스 TA (2024.07 - Present)
+- [NHN Academy](https://www.nhnacademy.com/) 경남캠퍼스 TA (2024.07 - 2025.06)
 
 
 <br>
