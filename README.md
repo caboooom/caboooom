@@ -21,33 +21,6 @@
 </div>
 <br>
 
-### <div>⌨️ Work Experience</div>
-- [NHN Academy](https://www.nhnacademy.com/) 경남캠퍼스 TA (2024.07 - 2025.06)
-
-
-<br>
-
-### <div>📚 Education</div>
-- [NHN Academy](https://www.nhnacademy.com/) AIoT Java Backend 1기 교육 수료 (2023.09 - 2024.06)
-- Pusan National University (2020.03 - 2025.02) <br>
-
-<br>
-
-
-### <div>💻 Projects</div>
-<!--
-<div>
-🌱 <a href="https://github.com/nhnacademy-aiot1-5">Smart Power Management System</a> (2024.03.25 - 2024.06.05) 
-</div>
-⚙️ <a href="https://github.com/GN-TA">IoT Service Platform</a> (2024.08.28 - Present)
--->
-
-| 프로젝트명                         | 기간                      | 인원 | 설명                         |
-|------------------------------|---------------------------|------|------------------------------|
-| 📝 [Caboomlog](https://github.com/caboom-log) | 2024.03.13 - Present | 개인 | 웹 블로그 플랫폼 |
-| ⚙️ [IoT Service Platform](https://github.com/GN-TA)                      | 2024.08.28 - 2025.04.04         |  3  | 오픈소스 기반 IoT 통합 플랫폼    |
-| 🌱 [Smart Power <br>Management System](https://github.com/nhnacademy-aiot1-5)  | 2024.03.25 - 2024.06.05      |  7  | 설정한 예산에 따른 <br>전력 소비량 자동 관리 및 모니터링 서비스 |
-
 
 <!--
 **caboooom/caboooom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
